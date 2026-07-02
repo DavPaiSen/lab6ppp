@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Main {
+public class Main { // tem um commit chamado ex1 feito por mim, nao e que eu colo de ninguem esses exercicios, e que o primeiro eu geralmente tento deixar bem igual ao feito na sala
     public static void main(String[] args) {
         ArrayList<Bebida> bebidas = new ArrayList<>();
         bebidas.add(new Cafe());
